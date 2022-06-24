@@ -1,4 +1,4 @@
-# Node App with MongoDB in Docker Containers
+# DJANGO APP WITH POSTGRE in Docker Containers
 
 ## Dockerfile
 
